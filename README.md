@@ -26,11 +26,11 @@ Here is the ant with the coolest name - _Rhytidoponera metallica_ - also known a
 
 ##### Lists #####
 Here is a list of all the skills I'm trying to demonstrate in this question:
-*Making Headings
-*Formatting text to be bold or italic
-*Making Lists  - List-Ception!!
-*Embedding images
-*Making a table
+* Making Headings
+* Formatting text to be bold or italic
+* Making Lists  - List-Ception!!
+* Embedding images
+* Making a table
 
 Here is a nested list of taxonomic classifications:
 1. Kingdom
