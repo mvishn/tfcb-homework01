@@ -49,3 +49,15 @@ Here is a nested list of taxonomic classifications:
 | Mollusca | Pinophyta | Basidiomycota  |
 
 
+
+### Question 6 ###
+Link to the re-formatted data file [here](https://github.com/mvishn/tfcb-homework01/blob/main/data/survey_data.csv).
+
+I don't understand why we saved it as a tab-separated text file only to change it to csv when there's no commas. I'm getting a "warning" in my github when I click on it because there's no commas but it's called csv.
+
+Here's what I did to make the data **tidy**:
+* Put everything into one sheet.
+* Made a separate column for "plot" instead of having many small tables for different plots.
+* Formatted dates to be in the YYYY-MM-DD format.
+* Created a "calibration" column where I put **0** if there was a note about the scale not being calibrated, and **1** if no note.
+* Put `n/a` where there was missing data.
