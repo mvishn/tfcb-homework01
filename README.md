@@ -17,7 +17,7 @@ I also changed the file names to be simpler and removed __spaces__ and most __ca
 
 ### Question 5 ###
 Here's a link to the README file:
-[README]()
+[README](https://github.com/mvishn/tfcb-homework01/blob/main/README.md)
 
 ##### Image #####
 The _images_ folder includes four photogpraphs of differents species of ant. 
